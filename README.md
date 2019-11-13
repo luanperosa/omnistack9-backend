@@ -16,7 +16,7 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 
 ## Como testar o projeto?
 
-Basta clonar este repositorio e no terminal executar os comandos `npm i` para instalar as dependencias, depois executar `npm start` para iniciar a aplicação. Caso queira trabalhar mais no desenvolvimento da API utilize o comando `npm run dev` para utilizar o Nodemon que irá reinicializar o terminal automaticamente durante a alteração dos codigos. 
+Basta clonar este repositorio e no terminal executar os comandos `npm i` para instalar as dependencias, depois executar o comando `npm start` para iniciar a aplicação. Caso queira trabalhar mais no desenvolvimento da API utilize o comando `npm run dev` para utilizar o Nodemon que irá reinicializar o terminal automaticamente durante a alteração dos codigos. 
 
 ## Link da API
 

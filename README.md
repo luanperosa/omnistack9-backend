@@ -22,5 +22,16 @@ Executar o comando `npm start` para iniciar a aplicação. Caso queira trabalhar
 
 ## Link da API
 
-Está API foi publicada no Heroku 
-https://luan-omnistack9-backend.herokuapp.com/
+Está API foi publicada no Heroku, você pode testar a API com esse link abaixo
+
+`https://luan-omnistack9-backend.herokuapp.com/`
+
+Devido a tecnologia utilizada para upload de fotos ser o <strong>multer</strong> não será possivel realizar upload de fotos utilizando essa API pois o multer sobe as fotos em uma pasta local do repositorio. 
+
+## Link para o projeto Web
+
+https://github.com/luanperosa/omnistack9-front-end
+
+## Link para o projeto Mobile
+
+https://github.com/luanperosa/omnistack9-mobile
